@@ -11,12 +11,12 @@ Razel Javier
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            color: #333;
+            color: #555;
             scroll-behavior: smooth;
         }
         header {
             background-color: #333;
-            color: white;
+            color: pink;
             padding: 20px;
             text-align: center;
         }
@@ -29,13 +29,13 @@ Razel Javier
             background-color: #444;
         }
         nav a {
-            color: white;
+            color: pink;
             padding: 15px 20px;
             text-decoration: none;
             text-transform: uppercase;
         }
         nav a:hover {
-            background-color: #666;
+            background-color: #999;
         }
 
         section {
@@ -64,7 +64,7 @@ Razel Javier
             justify-content: space-around;
         }
         .skill, .project {
-            background-color: white;
+            background-color: pink;
             padding: 20px;
             margin: 10px;
             width: 30%;
@@ -111,7 +111,11 @@ Razel Javier
             <img src=https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/475878528_581793615009786_7334511068054126664_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF3bLCvWulCIVmF02Zi0Ei-BIBCUpB2nFwEgEJSkHacXJ7B_-TzDNpzaEd2FcMkrV7AwhAfmTkOnzyv6HNptSwN&_nc_ohc=btbGwPK2t8sQ7kNvgHwvlZ7&_nc_oc=AdhaFtpZe7NzZgEYeI6I6_DPn-_IVV2aPNZj-Uoe4H4SqnAYGBR9Lu_trraViuaQckQ&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=APzgFwI-yjSk6EOxteljeCh&oh=00_AYCAgUXQpUy3mBicOE145UfEQdxI-cx-xTJa6burGFSj1A&oe=67B0C0C1
             width= "400px" height="500px">
         </body>
-        <p>Hi! I'm Razel, A BSIT student.</p>
+        <p>Hi! I am Razel Javier, Welcome to my life portfolio. This collection represents the essence of who I am—my journey, experiences, and the lessons I've learned along the way. From my personal achievements to the challenges that have shaped me, every chapter of this portfolio reflects my commitment to growth, creativity, and resilience.
+
+Whether in my career, relationships, or personal development, I strive to continually evolve, pushing boundaries and embracing new perspectives. I believe in the power of self-reflection and learning, and this portfolio is a testament to my ongoing pursuit of knowledge, fulfillment, and impact. It’s not just a record of what I've done, but a guide to the path I continue to forge—one filled with purpose, passion, and progress.
+
+</p>
     </section>
 
     <section id="skills">
@@ -139,17 +143,15 @@ Razel Javier
         <div class="projects">
             <div class="project">
                 <h3>Project 1</h3>
-                <p>A description of your first project. It could be a website or web app you've built.</p>
+                <p>Capstone Project: [ICT Office Management System]
+
+For my capstone project, I developed a comprehensive solution aimed at addressing to the problem of ICT office. This project allowed me to integrate the knowledge and skills I’ve gained throughout my academic journey and apply them to a real-world challenge.
+
+The goal of the project was to have an organized management system.
+
+Overall, this capstone project provided me with invaluable insights into finding solutin to all the problmes were facing, and reinforced my commitment to pursuing my dreams.</p>
             </div>
-            <div class="project">
-                <h3>Project 2</h3>
-                <p>A description of your second project. Include technologies used and the impact it had.</p>
-            </div>
-            <div class="project">
-                <h3>Project 3</h3>
-                <p>A description of your third project. Make sure to highlight your role and the results.</p>
-            </div>
-        </div>
+            
     </section>
 
     <section id="contact">
@@ -170,7 +172,7 @@ Razel Javier
         <ul>
             <li><strong>Degree:</strong> Bachelor of Science in Computer Science, </li>
             <li><strong>Certification:</strong> Front-End Web Development</li>
-            <li><strong>Training:</strong> </li>
+            <li><strong>Training:</strong>OJT of ICT office within 100 hrs</li>
         </ul>
     </section>
 
@@ -188,14 +190,14 @@ Razel Javier
     <section id="testimonials">
         <h2>Testimonials</h2>
         <img src="testimonials-image.jpg" alt="Testimonials Image">
-        <p>Here’s what some people have said about working with me:</p>
+        <p>"Working with Razel Javier has been an absolute pleasure. They consistently bring a positive attitude to the team, and their problem-solving skills are second to none. Whether it's a tight deadline or a challenging project,Razel approaches every task with dedication and a collaborative spirit. I truly admire their ability to lead by example and motivate others to strive for excellence."
+</p>
         <blockquote>
-            <p>"Your Name was an absolute pleasure to work with. Their expertise in front-end development and attention to detail made the project a success!"</p>
-            <footer>- Client Name, Company</footer>
+            <p></p>
+            <footer>–Joy Rose, Back End Engr.,Robs</footer>
         </blockquote>
         <blockquote>
-            <p>"Working with Your Name was a game-changer. They brought creativity, technical skills, and dedication to the table, making every project a joy!"</p>
-            <footer>- Colleague Name, Company</footer>
+           
         </blockquote>
     </section>
 
